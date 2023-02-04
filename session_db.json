@@ -4,7 +4,7 @@
       "id": "5263550244:5263550244",
       "data": {
         "__scenes": {},
-        "type": "remove"
+        "type": "answers"
       }
     },
     {
@@ -38,7 +38,7 @@
       "id": "993673074:993673074",
       "data": {
         "__scenes": {},
-        "type": "random"
+        "type": "remove"
       }
     },
     {
